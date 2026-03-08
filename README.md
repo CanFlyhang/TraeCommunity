@@ -1,7 +1,7 @@
 # TRAE中文社区客户端
 
 这是一个将TRAE中文社区网站转换为多平台客户端应用的项目，支持Windows、macOS和Android系统。
-https://github.com/CanFlyhang/TraeCommunity/blob/main/png/Win%E7%B3%BB%E7%BB%9F%E9%A1%B5%E9%9D%A2.png
+<img width="2880" height="1824" alt="Win系统页面" src="https://github.com/user-attachments/assets/38438b98-8b18-4fc8-bf4b-10331519fc24" />
 
 ## 项目介绍
 
