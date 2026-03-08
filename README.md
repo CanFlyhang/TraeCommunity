@@ -1,0 +1,2 @@
+# TraeCommunity
+这是一个将TRAE中文社区网站转换为多平台客户端应用的项目，支持Windows、macOS和Android系统。
