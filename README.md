@@ -11,7 +11,7 @@ TRAE中文社区客户端是通过将网站转换为桌面和移动应用程序�
 
 - **Windows**：适用于64位Windows系统
 - **macOS**：适用于64位macOS系统
-- **Android**：适用于Android移动设备
+- **Android**：适用于Android移动设备（暂不支持）
 
 ## 安装说明
 
@@ -27,7 +27,7 @@ TRAE中文社区客户端是通过将网站转换为桌面和移动应用程序�
 3. 双击打开dmg文件，将应用拖入Applications文件夹
 4. 从Applications文件夹启动应用
 
-### Android系统
+### Android系统（暂不支持）
 1. 下载Android安装包（.apk文件）
 2. 在设备上启用「未知来源」安装权限
 3. 找到下载的.apk文件并点击安装
